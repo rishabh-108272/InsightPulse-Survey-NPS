@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #333; 
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .navbar-content {
+    display: inline-block;
+    color: #fff; 
+  }
+  
